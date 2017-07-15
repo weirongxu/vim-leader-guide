@@ -31,7 +31,7 @@ if !exists("g:leaderGuide_flatten")
 endif
 
 if !exists("g:leaderGuide_default_group_name")
-    let g:leaderGuide_default_group_name = ""
+    let g:leaderGuide_default_group_name = "<CONTINUE>"
 endif
 
 if !exists("g:leaderGuide_max_size")
